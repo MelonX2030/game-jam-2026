@@ -399,3 +399,8 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[EEVEE]
+Name = Eevee
+Gender = Unknown
+BaseMoney = 160

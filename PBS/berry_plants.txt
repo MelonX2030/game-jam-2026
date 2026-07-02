@@ -319,18 +319,3 @@ Yield = 1,5
 HoursPerStage = 24
 DryingPerHour = 7
 Yield = 1,5
-#-------------------------------
-[ROSELIBERRY]
-HoursPerStage = 18
-DryingPerHour = 6
-Yield = 1,5
-#-------------------------------
-[KEEBERRY]
-HoursPerStage = 24
-DryingPerHour = 7
-Yield = 1,5
-#-------------------------------
-[MARANGABERRY]
-HoursPerStage = 24
-DryingPerHour = 7
-Yield = 1,5

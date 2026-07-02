@@ -31,3 +31,13 @@ SurfCharset = girl_surf
 DiveCharset = girl_surf
 FishCharset = girl_fish_offset
 SurfFishCharset = girl_fish_offset
+#-------------------------------
+[3]
+TrainerType = EEVEE
+WalkCharset = trainer_EEVEE
+RunCharset = trainer_EEVEE
+CycleCharset = trainer_EEVEE
+SurfCharset = trainer_EEVEE
+DiveCharset = trainer_EEVEE
+FishCharset = trainer_EEVEE
+SurfFishCharset = trainer_EEVEE
