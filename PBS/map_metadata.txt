@@ -1,2 +1,13 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+[003]   # Lynnfield High School
+Name = Lynnfield High School
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[009]   # Poképark
+Name = 
+Outdoor = true
+ShowArea = true
+Bicycle = true
