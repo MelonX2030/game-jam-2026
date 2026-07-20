@@ -5,9 +5,10 @@ Name = Lynnfield High School
 Outdoor = true
 ShowArea = true
 Bicycle = true
+BattleBack = city
 #-------------------------------
 [009]   # Poképark
-Name = 
+Name = Poképark
 Outdoor = true
 ShowArea = true
 Bicycle = true
